@@ -5,3 +5,5 @@ This is the code and presentation for my talk at PyCon UK 2018 - see [https://20
 To view the slides, go to https://robintw.github.io/XArray_PyConUK2018/XarrayPresentation.slides.html#/
 
 To view the code, look at the [XarrayPresentation.ipynb](XarrayPresentation.ipynb) notebook in this repo.
+
+**Before running the code:** Unzip the `All2014.nc.zip` file to produce the data file `All2014.nc` required by the code.
